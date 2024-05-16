@@ -1,5 +1,9 @@
 # TRNG-using-Lava-Lamp
 
+## Contributors
+[![DonBoscoBlaise](https://github.com/DonBoscoBlaiseA.png?size=50)](https://github.com/DonBoscoBlaiseA) [DonBoscoBlaise](https://github.com/DonBoscoBlaiseA)
+[![Mainkandan](https://github.com/ManiKandan228.png?size=50)](https://github.com/ManiKandan228) [Manikandan](https://github.com/ManiKandan228)
+
 ## Abstract
 The research investigates using a lava lamp as a True Random Number Generator (TRNG). Unlike conventional TRNGs, the lava lamp uses the chaotic motion of wax blobs to generate randomness, showing promise for encryption and simulations. Algorithms extract random numbers from video recordings of the wax movement. Initial findings indicate genuine randomness due to the unpredictable wax behavior. Future work will refine algorithms, explore applications, and enhance the lava lamp TRNG as a reliable, cost-effective alternative to traditional generators. This project explores this approach, highlighting its potential in encryption and simulations.
 
